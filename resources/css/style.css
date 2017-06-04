@@ -39,6 +39,12 @@ nav span{
   height: 60px;
   margin-right: 12px;
 }
+body{
+  margin: 0;
+  font-family: Georgia;
+  font-size: 17px;
+  color: black;
+}
 .content{
   display: flex;
   width: 1232px;
